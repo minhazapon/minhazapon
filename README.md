@@ -1,12 +1,12 @@
-![junior web developer](https://media.licdn.com/dms/image/D5603AQG1hJHOxlJlfw/profile-displayphoto-shrink_800_800/0/1699029500707?e=1709164800&v=beta&t=6MEWWxW3QWvv11GV8AhcRdshF_Q7Q1nff8emiEndAgM)
+
 
 ### Hi there 👋, i AM minhazul abedin apon 
 #### junior web developer
 
 
-I am a junior web developer. I love javascript. My dream is to become a full stack engineer.
+I am a junior web developer. I love javascript. My dream is to become a Front End Expert.
 
-Skills: HTML / CSS/ Javascript
+Skills: HTML/CSS/Tailwind/Javascript/React.js/Github
 
 - 🔭 I’m currently working on programming hero student 
 - 🌱 I’m currently learning Front End development 
