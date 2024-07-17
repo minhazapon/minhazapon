@@ -8,10 +8,10 @@ I am a junior web developer. I love javascript. My dream is to become a Front En
 
 Skills: HTML/CSS/Tailwind/Javascript/React.js/Github
 
-- 🔭 I’m currently working on programming hero student 
+
 - 🌱 I’m currently learning Front End development 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Front End developer 
+- 💬 Ask me about Front End development
 
 
 
