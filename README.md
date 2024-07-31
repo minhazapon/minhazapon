@@ -6,7 +6,7 @@
 
 I am a junior web developer. I love javascript. My dream is to become a Front End Expert.
 
-Skills: HTML/CSS/Tailwind/Javascript/React.js/Github
+Skills: javaScript, React.js.
 
 
 - 🌱 I’m currently learning Front End development 
