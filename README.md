@@ -4,9 +4,9 @@
 #### junior web developer
 
 
-I am a junior web developer. I love javascript. My dream is to become a Front End Expert.
-
-Skills: javaScript, React.js.
+I am a junior Software developer. I love javaScript , TypeScript , MERN .
+My dream is to become a Full Stack Engineer.
+Skills: JavaScript, TypeScript, React.js
 
 
 - 🌱 I’m currently learning Front End development 
